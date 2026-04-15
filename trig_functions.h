@@ -1,8 +1,7 @@
-//standard trig
+// standard trig
 double calc_sin(double angle, int is_degrees);
 double calc_cos(double angle, int is_degrees);
 double calc_tan(double angle, int is_degrees);
-
 
 double calc_csc(double angle, int is_degrees);
 double calc_sec(double angle, int is_degrees);
